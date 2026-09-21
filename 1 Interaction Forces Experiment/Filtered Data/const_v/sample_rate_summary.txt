@@ -1,0 +1,12 @@
+Condition: Constant velocity 0.2 m/s (const_v)
+Source file: walker_straight_1_constvel-0.2ms_velocity.csv
+N samples: 15411
+Duration: 154.082 s
+Mean fs: 100.0118 Hz
+
+--- Section 2: cutoff selection ---
+Chosen cutoff (Winter cutoff): 6 Hz
+Method: Winter (1990) residual analysis. Noise region = [10 20] Hz.
+Noise-region linear fit: residual = a*cutoff + b, a = -0.000011, b = 0.000687
+Selected cutoff = lowest swept cutoff where residual first drops to/below b (no interpolation).
+This is a heuristic -- visually confirm against residual_curve.png / residual_data.csv before locking in.

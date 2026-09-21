@@ -1,0 +1,7 @@
+condition,signal,abs_a_max_mps2
+"Constant velocity 0.2 m/s",a (filtered),1.24443169601929
+"Constant velocity 0.2 m/s",a_raw (unfiltered),1.48532821339851
+"Admittance 1 (dv=20, dw=10)",a (filtered),0.964505229387124
+"Admittance 1 (dv=20, dw=10)",a_raw (unfiltered),1.09910535482235
+"Admittance 2 (dv=200, dw=100)",a (filtered),0.685534300466397
+"Admittance 2 (dv=200, dw=100)",a_raw (unfiltered),0.792608747006842

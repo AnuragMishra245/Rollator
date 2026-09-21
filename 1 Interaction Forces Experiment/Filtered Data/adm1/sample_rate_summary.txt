@@ -1,0 +1,12 @@
+Condition: Admittance 1 (dv=20, dw=10) (adm1)
+Source file: walker_straight_2_adm-dv20-dw10_velocity.csv
+N samples: 9534
+Duration: 95.315 s
+Mean fs: 100.0162 Hz
+
+--- Section 2: cutoff selection ---
+Chosen cutoff (Winter cutoff): 7 Hz
+Method: Winter (1990) residual analysis. Noise region = [10 20] Hz.
+Noise-region linear fit: residual = a*cutoff + b, a = -0.000011, b = 0.000713
+Selected cutoff = lowest swept cutoff where residual first drops to/below b (no interpolation).
+This is a heuristic -- visually confirm against residual_curve.png / residual_data.csv before locking in.
